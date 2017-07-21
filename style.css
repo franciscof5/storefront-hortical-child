@@ -1,0 +1,26 @@
+/*
+Theme Name:     Hortical Storefront Child
+Theme URI:      https://www.f5sites.com
+Description:    Custom adaptation for project need
+Author:         Francisco Matelli Matulovic
+Author URI:     https://www.franciscomat.com
+Template:       storefront
+Version:        0.1
+*/
+
+@import url("fonts/purisa/stylesheet.css");
+
+/*@import url("../storefront/style.css");*/
+
+
+
+body {
+	font-family: 'purisamedium';
+}
+.entry-content {
+	font-family: "Source Sans Pro","​Helvetia","​sans-serif" !important;
+}
+.woocommerce-breadcrumb, .woocommerce-breadcrumb  a {
+	color: #444 !important;
+	font-family: "Source Sans Pro","​Helvetia","​sans-serif" !important;	
+}
