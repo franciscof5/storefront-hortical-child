@@ -12,7 +12,9 @@ Version:        0.1
 
 /*@import url("../storefront/style.css");*/
 
-
+.site-header {
+	z-index: 0 !important;
+}
 
 body {
 	font-family: 'purisamedium';
